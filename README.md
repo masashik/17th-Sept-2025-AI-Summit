@@ -99,3 +99,17 @@ Ezequiel (Eze) Lanza
                     - Q: keeping accuracy acceptable?
                     - Q: Does quantization apply for physics or math academic field????
                     - for weight and activation
+
+        LLM Agent
+
+            tool calling
+            ReAct Agent (Reason + Act)
+            Agent-to-agent (ACP/A2A/MCP)
+                ACP
+                A2A (reasoning) find what agent can undertand the problem
+                MCP (tool) protocol/specification” is precise
+
+            Demo project is hosted at https://github.com/openvinotoolkit/openvino_build_deploy
+
+            The mulit-agent workflow is:
+                https://github.com/openvinotoolkit/openvino_build_deploy/workshops/CVPR2025/src/mcp_clients/multiagents_workflow.py
